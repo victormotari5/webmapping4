@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Maasai Mara National Reserve",
+        "latitude": -1.4931,
+        "longitude": 35.1439,
+        "area_sq_km": "1500",
+        "county": "Narok"
+    },
+    {
+        "name": "Amboseli National Park",
+        "latitude": -2.6454,
+        "longitude": 37.2605,
+        "area_sq_km": "3920",
+        "county": "Kajiado"
+    },
+    {
+        "name": "Tsavo East National Park",
+        "latitude": -2.6355,
+        "longitude": 38.643,
+        "area_sq_km": "13747",
+        "county": "Taita-Taveta"
+    },
+    {
+        "name": "Tsavo West National Park",
+        "latitude": -3.3168,
+        "longitude": 38.1358,
+        "area_sq_km": "9065",
+        "county": "Taita-Taveta"
+    },
+    {
+        "name": "Lake Nakuru National Park",
+        "latitude": -0.3667,
+        "longitude": 36.0833,
+        "area_sq_km": "188",
+        "county": "Nakuru"
+    },
+    {
+        "name": "Samburu National Reserve",
+        "latitude": 0.5477,
+        "longitude": 37.5291,
+        "area_sq_km": "165",
+        "county": "Samburu"
+    },
+    {
+        "name": "Nairobi National Park",
+        "latitude": -1.3733,
+        "longitude": 36.8583,
+        "area_sq_km": "117",
+        "county": "Nairobi"
+    },
+    {
+        "name": "Hell's Gate National Park",
+        "latitude": -0.8815,
+        "longitude": 36.3107,
+        "area_sq_km": "68",
+        "county": "Nakuru"
+    },
+    {
+        "name": "Aberdare National Park",
+        "latitude": -0.4,
+        "longitude": 36.7,
+        "area_sq_km": "767",
+        "county": "Aberdare"
+    },
+    {
+        "name": "Mount Kenya National Park",
+        "latitude": -0.15,
+        "longitude": 37.3,
+        "area_sq_km": "715",
+        "county": "Kirinyaga"
+    }
+]
